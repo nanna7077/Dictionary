@@ -9,7 +9,7 @@ A dictionary application using GTK4
 
 ### ToDo
 
-[ ] Bring support for other languages
-[ ] Show search history and add private mode
+- [] Bring support for other languages
+- [] Show search history and add private mode
 
 If you are willing to help with adding your language to this Dictionary, please create an issue!
