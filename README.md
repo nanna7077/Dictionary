@@ -10,7 +10,7 @@ A dictionary application using GTK4
 
 ### ToDo
 
-- [ ] Bring support for other languages
+- [ ] Add support for other languages
 - [x] Show search history
 - [ ] Add private mode
 

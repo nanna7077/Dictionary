@@ -35,6 +35,7 @@ def save_history(language, word):
     currentHist = currentHist[::-1]
     currentHist.append(word.lower().title())
     with open(histfile, "w") as f:
+        f.seek(0)
         for i in currentHist:
             f.write(i)
             f.write("\n")
